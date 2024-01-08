@@ -1,3 +1,4 @@
+const { characters } = require('./../db/characters');
 // Resolvers
 const rootResolvers = {
     characters: () => characters,
