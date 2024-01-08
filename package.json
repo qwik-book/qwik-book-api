@@ -1,0 +1,23 @@
+{
+  "name": "qwik-book-api-breaking-bad",
+  "version": "1.0.0",
+  "description": "API REST / GraphQL para el capítulo 11 del libro de Qwik donde consumimos APIs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --watch index.js"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Anartz Mugika Ledo",
+    "email": "mugan86@gmail.com",
+    "url": "https://anartz-mugika.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "express-graphql": "^0.12.0",
+    "graphql": "^16.8.1"
+  }
+}
