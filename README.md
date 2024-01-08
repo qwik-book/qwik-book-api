@@ -9,7 +9,7 @@ Ejemplo de API básica donde tendremos una API con Node Express de tipo REST y G
 
 Clonar el repositorio
 ```bash
-git clone 
+git clone https://github.com/qwik-book/qwik-book-api.git
 ```
 
 Ejecutamos el comando de instalar:
