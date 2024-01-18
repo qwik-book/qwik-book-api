@@ -15,6 +15,8 @@ const schema = buildSchema(`
     url: String
     """Número de votos recibidos"""
     votes: Int
+    """Mensaje"""
+    message: String
   }
 
   type Query {
